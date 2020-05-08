@@ -35,6 +35,10 @@ contact_settings:
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
+ 
+download_settings:
+  desktop_url: 'https://github.com/rubenhenares/maxmix-hardware/archive/v1.0.0.zip'
+  hardware_url: 'https://github.com/rubenhenares/maxmix-hardware/archive/v1.0.0.zip'
 
 social_settings:
   facebook_url: 'https://www.facebook.com/ruben.henares.10'
