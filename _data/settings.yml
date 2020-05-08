@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      url: '/blog/'
+      url: '/'
     - title: 'Software'
       url: '/software'
     - title: 'Hardware'
