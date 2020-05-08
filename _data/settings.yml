@@ -18,6 +18,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Blog'
+      url: '/blog/'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
