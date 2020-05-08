@@ -37,11 +37,11 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  facebook_url: 'https://www.facebook.com/ruben.henares.10'
+  twitter_url: 'https://twitter.com/ruben_henares'
+  instagram_url: 'https://www.instagram.com/rubenhenares/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/user/LCHD4774'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
