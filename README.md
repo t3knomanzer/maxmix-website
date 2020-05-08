@@ -1,0 +1,2 @@
+# maxmix
+MaxMix project documentation.
