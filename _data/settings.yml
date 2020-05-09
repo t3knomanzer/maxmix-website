@@ -16,8 +16,6 @@ menu_settings:
       url: '/hardware'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
