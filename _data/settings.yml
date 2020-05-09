@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/logo.png
-  logo_width: 205
+  logo_width: 200
 
 menu_settings:
   menu_items:
@@ -14,8 +14,8 @@ menu_settings:
       url: '/software'
     - title: 'Hardware'
       url: '/hardware'
-    - title: 'About'
-      url: '/about'
+    - title: 'Contribute'
+      url: '/contribute'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
