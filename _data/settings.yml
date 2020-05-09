@@ -25,7 +25,7 @@ hero_settings:
   overlay_opacity: 0.8
 
 post_settings:
-  grid_spacing: 10
+  grid_spacing: 5
 
 download_settings:
   desktop_url: 'https://github.com/rubenhenares/maxmix-hardware/archive/v1.0.0.zip'
