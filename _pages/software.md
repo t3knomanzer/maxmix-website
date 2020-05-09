@@ -5,7 +5,11 @@ description: This is the page description.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
-Software page...
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Windows</a>
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+## Installation
+
+
+
+
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Download</a>
