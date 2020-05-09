@@ -10,10 +10,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Software'
-      url: '/software'
-    - title: 'Hardware'
-      url: '/hardware'
+    - title: 'Build'
+      url: '/build'
+    - title: 'Setup'
+      url: '/setup'
     - title: 'Contribute'
       url: '/contribute'
 
@@ -26,12 +26,6 @@ hero_settings:
 post_settings:
   grid_spacing: 10
 
-contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
- 
 download_settings:
   desktop_url: 'https://github.com/rubenhenares/maxmix-hardware/archive/v1.0.0.zip'
   hardware_url: 'https://github.com/rubenhenares/maxmix-hardware/archive/v1.0.0.zip'
