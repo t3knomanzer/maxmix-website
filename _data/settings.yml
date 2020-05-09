@@ -14,8 +14,8 @@ menu_settings:
       url: '/software'
     - title: 'Hardware'
       url: '/hardware'
-    - title: 'About'
-      url: '/about'
+    - title: 'Contribute'
+      url: '/contribute'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
