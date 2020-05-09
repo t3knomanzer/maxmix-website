@@ -7,6 +7,7 @@ header_settings:
   logo_width: 200
 
 menu_settings:
+  donate_url: 'https:www.paypal.me/test'
   menu_items:
     - title: 'Home'
       url: '/'
