@@ -8,6 +8,7 @@ featured_image: '/images/demo/demo-square.jpg'
 <!-- Post page header image -->
 ![](/images/demo/demo-landscape.jpg)
 
+## Demo content
 
 It's finally arrived! 
 It's been a long journey from the initial design to the first public release. 
