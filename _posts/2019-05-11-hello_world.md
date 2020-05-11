@@ -14,6 +14,6 @@ It's been a long journey from the initial design to the first public release.
 ...
 
 <div class="gallery" data-columns="2">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="{{/images/demo/demo-landscape.jpg | relative_url}}">
+	<img src=="{{/images/demo/demo-landscape.jpg | relative_url}}">
 </div>
