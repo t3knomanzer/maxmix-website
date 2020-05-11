@@ -1,18 +1,15 @@
 ---
-title: 'We are live'
+title: 'It's here!'
 date: 2020-05-11 11:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: The first version of MaxMix is finally here.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
-
-It's finally arrived! 
-It's been a long journey from the initial design to the first public release. 
+It's been a long journey from the initial design to the first public release, but I'm happy to announce that it's finally here.
 
 <div class="gallery" data-columns="2">
-	<img src="/maxmix/images/demo/demo-portrait.jpg">
+	<img src="images/demo/demo-portrait.jpg">
 	<img src="images/demo/demo-landscape.jpg">
 </div>
