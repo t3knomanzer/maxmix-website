@@ -5,7 +5,6 @@ description: 'The first version of MaxMix is out. Build your very own today!'
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-<!-- Post page header image -->
 ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
