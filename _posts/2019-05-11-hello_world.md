@@ -9,9 +9,10 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+It's finally arrived! 
+It's been a long journey from the initial design to the first public release. 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="{{/images/demo/demo-portrait.jpg | relative_url}}">
 	<img src="{{/images/demo/demo-landscape.jpg | relative_url}}">
 </div>
