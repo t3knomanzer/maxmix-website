@@ -11,3 +11,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
+<div class="gallery" data-columns="3">
+	<img src="{{/images/demo/demo-portrait.jpg | relative_url}}">
+	<img src="{{/images/demo/demo-landscape.jpg | relative_url}}">
+</div>
