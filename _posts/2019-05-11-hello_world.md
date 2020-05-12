@@ -10,6 +10,6 @@ featured_image: '/images/demo/demo-square.jpg'
 It's been a long journey from the initial design to the first public release, but I'm happy to announce that it's finally here.
 
 <div class="gallery" data-columns="2">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg ">
+	<img src="images/demo/demo-portrait.jpg">
+	<img src="images/demo/demo-landscape.jpg ">
 </div>
