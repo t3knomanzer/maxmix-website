@@ -1,6 +1,6 @@
 ---
 title: 'We are live'
-date: 2020-05-11 11:00:00
+date: 2020-05-11 12:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
@@ -10,7 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
-
+ 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
