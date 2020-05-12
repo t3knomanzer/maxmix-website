@@ -116,7 +116,7 @@ The pins of the display are numbered from top to bottom.
 |(3) SCL                |            |A5    |
 |(4) SCA                |            |A4    |
 
-![](images/demo/demo-landscape.jpg)
+![](images/build/wir-all.jpg)
 
 ## Assembly
 1. Grab the ring and place it it on the top of the enclosure, aligning the notches on the sides and making sure that the extra notch is facing the display.
