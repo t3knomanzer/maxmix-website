@@ -9,8 +9,8 @@ header_settings:
 menu_settings:
   donate_url: 'https:www.paypal.me/test'
   menu_items:
-    - title: 'Home'
-      url: '/'
+    - title: 'Overview'
+      url: '/overview'
     - title: 'Build'
       url: '/build'
     - title: 'Setup'
