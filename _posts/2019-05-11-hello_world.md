@@ -2,7 +2,7 @@
 title: 'It's here!'
 date: 2020-05-11 11:00:00
 description: The first version of MaxMix is finally here.
-featured_image: '/maxmix/images/demo/demo-square.jpg'
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/maxmix/images/demo/demo-landscape.jpg)
