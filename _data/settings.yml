@@ -7,7 +7,7 @@ header_settings:
   logo_width: 200
 
 menu_settings:
-  donate_url: 'https:www.paypal.me/test'
+  donate_url: 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url'
   menu_items:
     - title: 'Overview'
       url: '/overview'
