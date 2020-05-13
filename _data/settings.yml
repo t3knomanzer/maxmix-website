@@ -1,5 +1,6 @@
 basic_settings:
   site_title: MaxMix
+  site_author: Ruben Henares
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -7,7 +8,6 @@ header_settings:
   logo_width: 200
 
 menu_settings:
-  donate_url: 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url'
   menu_items:
     - title: 'Overview'
       url: '/overview'
@@ -17,9 +17,13 @@ menu_settings:
       url: '/setup'
     - title: 'Contribute'
       url: '/contribute'
+    - title: 'Buy'
+      url: 'https://www.tindie.com/products/kassersynths/dafm-synth-genesis-ym2612-ym3438/'
+    - title: 'Donate!'
+      url: 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: ''
 
 hero_settings:
   overlay_opacity: 0.8

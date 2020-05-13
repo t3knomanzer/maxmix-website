@@ -2,10 +2,10 @@
 title: "It's here!"
 date: 2020-05-11 11:00:00
 description: The first version of MaxMix is finally here.
-featured_image: "/images/demo/demo-square.jpg"
+featured_image: "/images/posts/2019-05-11-hello_world.jpg"
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![]()
 
 It's been a long journey from the initial design to the first public release, but I'm happy to announce that it's finally here.
 
