@@ -1,32 +1,38 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: Contribute
+subtitle: It's more fun when we build it together.
+description: MaxMix development contribution guide.
 featured_image: /images/contribute/header.jpg
 ---
 
-## Features
+## Overview
+MaxMix is open source software and hardware, contributing to it's development is very easy.
 
-We've packed Personal full of powerful features to help showcase your work:
+There are four areas to which you can contribute, all described below.  
+I only ask you to read the contribution guidelines and licenses for repositories.
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Not a developer? No problem! Support by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url) to the project!
 
-## Get Personal
+## Desktop app
+Are you into Windows desktop application programming?  
+The desktop app is written in C# and WPF.
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+[GitHub](https://github.com/rubenhenares/maxmix-desktop)
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+## Firmware
+Are microcontrollers your thing?   
+MaxMix uses an off-the-shelf Arduino Nano.
+
+[GitHub](https://github.com/rubenhenares/maxmix-embedded)
+
+## Device
+Are you into product design?  
+Create a remix of the original design!
+
+[Thingiverse](https://www.thingiverse.com/thing:4343186)
+
+## Website
+This website itself is also hosted on GitHub.  
+Suggestions, improvements?
+
+[GitHub](https://github.com/rubenhenares/maxmix)
