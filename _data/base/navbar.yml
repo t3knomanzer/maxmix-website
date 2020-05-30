@@ -1,0 +1,17 @@
+# Navbar menu navigation links
+left:
+
+center:
+  - title: Home
+    url: /
+
+  - title: Secton 1
+    url: /portfolio/
+
+  - title: Section 2
+    url: /blog/
+
+  - title: Section 3
+    url: /404/
+    
+right:
