@@ -1,0 +1,48 @@
+---
+layout: default
+title: Home
+description: MaxMix, the volume mixer for everyone.
+featured_image: /images/home/header.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>The volume mixer for everyone</h1>
+		<p>Control the volume of every application running on your pc without hassle.		
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for post in site.posts %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+					<p class="post__subtitle">{{ post.subtitle }}</p>
+					<p class="post__description">{{ post.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
