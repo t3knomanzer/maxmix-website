@@ -7,8 +7,8 @@
 # Site settings
 title:                  Eon
 description:            Multipurpose Jekyll theme.
-url:                    "https://eon.unbound.studio" # Site base hostname & protocol, e.g. http://example.com
-baseurl:                # Site subpath, e.g. /blog
+url:                    "https://rubenhenares.github.com" # Site base hostname & protocol, e.g. http://example.com
+baseurl:                "/maxmix" # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.svg
 logo_light:             logo-light.svg
@@ -22,7 +22,7 @@ paginate_path:          "/blog/:num/" # Blog path
 
 # Default author settings
 author:
-  name:                 Pete Seth
+  name:                 Ruben Henares
   avatar:               avatar-tom.png
   title:                Support     
   bio:                  I am the CEO of this company, loved by everyone, just plain awesome so you want to follow me all the time.
@@ -95,7 +95,7 @@ instagram_accesstoken:
 donations:
   paypal:
     id:                 # PayPal button ID
-    navbar:             # true
+    navbar:             true # true
 
 # Social share buttons
 social_share:
