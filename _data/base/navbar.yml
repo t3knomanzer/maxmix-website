@@ -2,16 +2,17 @@
 left:
 
 center:
-  - title: Home
-    url: /
+  - title: Build
+    url: /build/
 
-  - title: Secton 1
-    url: /portfolio/
+  - title: Setup
+    url: /setup/
 
-  - title: Section 2
+  - title: Contribute
+    url: /contribute/
+
+  - title: Blog
     url: /blog/
-
-  - title: Section 3
-    url: /404/
     
 right:
+  

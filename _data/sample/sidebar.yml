@@ -14,10 +14,33 @@ blog:
     count: 15
     title: Latest Posts
 
-build:
+page:
+  - widget: author
+    author: john
+
+  - widget: latest
+    type: posts
+    count: 15
+    title: Latest Posts
+
+allwidgets:
+  - widget: tagged
+    type: posts
+    primary:
+      title: Product news
+      tag: news
+    secondary:
+      title: Editor picks
+      tag: pick
+
+  - widget: latest
+    type: posts
+    count: 6
+    title: Latest Posts
+
   - widget: navigation
     nav:
-    - title: Sections
+    - title: Pages
       links:
         - title: Home Page
           url: /
@@ -27,3 +50,10 @@ build:
           url: /blog/
         - title: 404 Page
           url: /404/
+
+  - widget: author
+    author: ivan
+
+  - widget: block
+    block: block-1
+    title: Content of a block

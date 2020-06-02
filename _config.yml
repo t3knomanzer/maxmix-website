@@ -69,16 +69,17 @@ authors:
     avatar:             avatar-tom.png
 
 navbar:
-  layout:               default # default, center
-  color:                dark # text color, dark or light
+  layout:               default    # Options: default, center
+  color:                light      # Text color, Options: dark or light
   animation:            true
-  sticky:               true
+  sticky:               false
   search:               false
+  scroll_up:            false
 
 footer:                 # Default footer image settings
   style:                secondary # default, muted, primary, secondary
   layout:               columns # center or columns
-  copyright:            Made by <a href="https://unbound.studio/">Unbound Studio</a> in Mexico City.
+  copyright:            Made with love by Ruben Henares
 
 mailchimp:
   form_action:          000000
@@ -94,7 +95,7 @@ instagram_accesstoken:
 
 donations:
   paypal:
-    id:                 # PayPal button ID
+    id:                 00000 # PayPal button ID
     navbar:             true # true
 
 # Social share buttons

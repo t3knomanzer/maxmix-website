@@ -1,82 +1,49 @@
 # Center style footer navigation
 center:
-  - title: Services
-    url: /services/
+  - title: Section A
+    url: /sectiona/
 
-  - title: News
-    url: /blog/
+  - title: Section B
+    url: /sectionb/
 
-  - title: Jurisdictions
-    url: /jurisdictions/
+  - title: Section C
+    url: /sectionc/
 
-  - title: Directory
-    url: /directory/
+  - title: Section D
+    url: /sectiond/
 
-  - title: Contact
-    url: /contact/
+  - title: Section E
+    url: /sectione/
 
 
 # Columns style footer navigation
 columns:
-  - title: COMPANY
+  - title: BUILD
     links:
-      - title: Marketing Tools
+      - title: Parts
         url: /#
-      - title: Presentations
-        url: /#
-      - title: Professionals
-        url: /#
-      - title: Appointments
-        url: /#
-      - title: Stores
+      - title: Assembly
         url: /#
 
-  - title: PRODUCTS
+  - title: SETUP
     links:
-      - title: Small Businesses
+      - title: Application
         url: /#
-      - title: Photographers
-        url: /#
-      - title: Restaurants
-        url: /#
-      - title: Designers
-        url: /#
-      - title: Artists
+      - title: Firmware
         url: /#
 
-  - title: JOIN US
+  - title: CONTRIBUTE
     links:
-      - title: Our Initiatives
+      - title: Destkop
         url: /#
-      - title: Giving Back
+      - title: Firmware
         url: /#
-      - title: Communities
+      - title: Hardware
         url: /#
-      - title: Youth Program
+      - title: Website
         url: /#
-      - title: Charity
-        url: /#
-
-  - title: COMMUNITY
+  
+  - title: CONNECT
     links:
-      - title: Webinars
-        url: /#
-      - title: Developers
-        url: /#
-      - title: Platforms
-        url: /#
-      - title: Workshops
-        url: /#
-      - title: Local Meetups
-        url: /#
-
-  - title: CONTACT
-    links:
-      - title: Contact Form
-        url: /#
-      - title: LinkedIn
-        url: /#
-      - title: Facebook
-        url: /#
-      - title: Visit Us
+      - title: Contact
         url: /#
