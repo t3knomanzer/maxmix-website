@@ -27,3 +27,17 @@ build:
           url: /blog/
         - title: 404 Page
           url: /404/
+
+setup:
+  - widget: navigation
+    nav:
+    - title: Sections
+      links:
+        - title: Home Page
+          url: /
+        - title: Portfolio
+          url: /portfolio/
+        - title: Blog
+          url: /blog/
+        - title: 404 Page
+          url: /404/    

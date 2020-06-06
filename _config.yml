@@ -10,8 +10,8 @@ description:            The volume controler for everyone.
 url:                    "https://rubenhenares.github.com" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                "/maxmix" # Site subpath, e.g. /blog
 lang:                   en
-logo:                   # logo-dark.svg, if not provided title is used
-logo_light:             # logo-light.svg if not provided title is used
+logo:                   logo-dark.svg # if not provided title is used
+logo_light:             logo-light.svg # if not provided title is used
 permalink:              /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:            "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads:                /uploads/ # Path to post content assets directory i.e post images, pdfs etc

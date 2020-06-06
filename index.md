@@ -22,7 +22,7 @@ header:
   # background_color: "#1B33BF"
   # background_image: Working-Space.jpg
   # background_align: center-center     # Image position, Options: center-center, top-center, bottom-center, center-right, center-left
-  background_video:   Working-Space.mp4
+  background_video:   /home/header.mp4
   background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
 ---
 
