@@ -36,7 +36,7 @@ sidebar:
 [jumper-wires]:https://www.aliexpress.com/item/33007698478.html?spm=a2g0o.productlist.0.0.44b248d7kcLfV9&algo_pvid=b0a90a38-c903-4828-9cf3-0073b86684ae&algo_expid=b0a90a38-c903-4828-9cf3-0073b86684ae-6&btsid=0ab6d67915893355772902177e0543&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 [bumpers]:https://www.aliexpress.com/item/32289191938.html?spm=a2g0o.productlist.0.0.20513e1cJD6rV0&s=p&ad_pvid=2020051219254812188693811548200016292927_1&algo_pvid=f58a6173-19a8-4de7-9dbb-819984df4870&algo_expid=f58a6173-19a8-4de7-9dbb-819984df4870-0&btsid=0ab50f6115893367485698071ebd11&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 
-## Overview
+# Overview
 The device is uses a combination of 3D printed parts and off the shelf electronic components.  
 There are many ways to get your own MaxMix, pick the one that suits you best.
 
@@ -44,13 +44,13 @@ Soldering is only required for the header pins of the MCU.
 
 Follow the instructions to build it yourself or simply order it from the [store]().
 
-## Part List
+# Part List
 All links provided for the parts below are subject to availability. When looking for alternatives,  make sure the part specifications match.  
 
 Total cost is about **$13.00 USD**.   
 _Does not include 3D printed parts_.
 
-### Enclosure
+## Enclosure
 The device is made up of a few 3D printed parts.  
 The top of the enclosure, the bottom, the knob, the ring, the display and the MCU tabs.  
 
@@ -70,7 +70,7 @@ Additionally, you will need:
 %}
 
 
-### Electronics
+## Electronics
 There are four electronic components needed that can easily be found online.
 - 1x [Arduino Nano 328P CH340][mcu]
 - 1x [128x32 I2C OLED display][display]
@@ -86,10 +86,10 @@ There are four electronic components needed that can easily be found online.
   lightbox="true"
 %}
 
-## Instructions
+# Instructions
 Once you have all the parts ready, it's time to put it together.
 
-### 1. Display
+## 1. Display
 1. Grab the top of the enclosure, the display, one of the tabs and a M3 screw.  
 2. Place the display in the opening with the pins on the right.
 3. Secure it using the tab and the screw.
@@ -102,7 +102,7 @@ Once you have all the parts ready, it's time to put it together.
     lightbox="false"
 %}
 
-### 2. Rotary encoder
+## 2. Rotary encoder
 1. Grab the bottom of the enclosure, the rotary encoder and 2 M4 screws.
 2. Place the rotary encoder with the pins facing the back.
 3. Secure it to the base using the 2 screws.
@@ -115,7 +115,7 @@ Once you have all the parts ready, it's time to put it together.
     lightbox="false"
 %}
 
-### 3. MCU
+## 3. MCU
 1. Grab the MCU, the remaining tab and a M3 screw.
 2. Insert the USB connector of the MCU into the opening.
 3. Secure it in place using the tab and screw.
@@ -128,7 +128,7 @@ Once you have all the parts ready, it's time to put it together.
     lightbox="false"
 %}
 
-### 4. Power bus
+## 4. Power bus
 1. Grab the power splitter and 2 M3 screws.
 2. Place the power splitter in the right location as shown below.
 3. Secure in place using the screws.
@@ -141,7 +141,7 @@ Once you have all the parts ready, it's time to put it together.
     lightbox="false"
 %}
 
-### 4. Wiring
+## Wiring
 
 **Warning:** _Connecting wires incorrectly will damage electronic components._
 

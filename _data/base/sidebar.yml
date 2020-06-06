@@ -33,11 +33,13 @@ setup:
     nav:
     - title: Sections
       links:
-        - title: Home Page
-          url: /
-        - title: Portfolio
-          url: /portfolio/
-        - title: Blog
-          url: /blog/
-        - title: 404 Page
-          url: /404/    
+        - title: Overview
+          url: /setup/#overview
+        - title: Requirements
+          url: /setup/#requirements
+        - title: Desktop Application
+          url: /setup/#desktop-application
+        - title: Firmware
+          url: /setup/#firmware
+        - title: Troubleshoot
+          url: /setup/#troubleshoot

@@ -28,60 +28,40 @@ sidebar:
 
 
 # Overview
-MaxMix is comprised of two pieces of software, the desktop application and the device firmware, you can download both of them below.
+MaxMix is comprised of two pieces of software, the application running on your desktop computer and the firmware running on the device.
+Installation is very straight forward but just in case, below are step by step instructions.
 
-# Desktop app
-_It is recommended that you install the desktop application before you plug-in your device for the first time since it will also install the necessary device drivers._
+# Requirements
+- A computer running **Windows 10**.
+- An available USB 2.0 or greater port.
+- A maxmix device.
 
-1. Download the application, run the downloaded executable and follow the instructions on the screen.  
-2. Plug-in your device now and wait for Windows to recognize it.  
-3. Launch the application either from the **start menu** or the **desktop shortcut**.
+# Desktop Application
+{% include alert.html text="It is recommended that you install the desktop application before you plug-in your device for the first time." style="primary" %}
 
-The application should now be running and in the **windows taskbar**. 
+1. Download the latest version of the [desktop application](/maxmix/). 
+2. Double click on the installer and follow the instructions on the screen.
+3. Plug-in your device now and wait for Windows to recognize it.  
+4. Launch the application either from the Windows start menu or the shortcut on your desktop.
 
-If you purchased the device from the store, it will come with the firmware already installed so you can start using it right away, if not, read below how to install it yourself.
+The application should now be running and you should see the maxmix icon in the **windows taskbar**. 
+You can double-click or right click on the icon to access the application.
 
 # Firmware
-Coming soon.
+{% include alert.html text="Make sure the maxmix device is plugged in." style="primary" %}
 
-# Troubleshooting
-## Unrecognized device
-If you plugged-in the device before installing the application, your device will show as unrecognized in the **Device Manager**.
+1. Launch the **Firmware Installer** from the shortcut on your desktop or in the Windows start menu.
+2. Confirm that the COM port selected on the drop-down is the correct one.
+3. Press install and wait for the installation to complete.
 
-{% include image.html 
-    src="/setup/desk-device-ctrlpanel-nodriver.jpg"
-    alt="Alt for image"
-    align="center"
-    caption="Caption example"
-    lightbox="false"
+
+{% include faqs.html 
+  multiple="false" 
+  category="setup" 
+  section_title="Troubleshoot" 
+  section_size="large"
+  section_background="default"
+  section_container="xsmall"
+  section_header_align="center"
 %}
 
-Right click on it and select **Uninstall device** then press **Uninstall** in the dialog.
-
-{% include image.html 
-    src="/setup/desk-device-ctrlpanel-uninstall-01.jpg"
-    alt="Alt for image"
-    align="center"
-    caption="Caption example"
-    lightbox="false"
-%}
-
-{% include image.html 
-    src="/setup/desk-device-ctrlpanel-uninstall-02.jpg"
-    alt="Alt for image"
-    align="center"
-    caption="Caption example"
-    lightbox="false"
-%}
-
-Unplug the device and reboot your computer.
-After Windows starts up, plug-in your device again and wait for it to be recognized.
-It should now  show up in the **Device Manager** under as **CH340**.
-
-{% include image.html 
-    src="/setup/desk-device-ctrlpanel-driver.jpg"
-    alt="Alt for image"
-    align="center"
-    caption="Caption example"
-    lightbox="false"
-%}
