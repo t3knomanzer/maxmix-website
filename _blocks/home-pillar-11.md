@@ -1,6 +1,6 @@
 ---
-title: Fully Featured
+title: Powerfull
 icon: ios-list.svg
 ---
 
-With new functionality added constantly by our amazing contributors.
+With new features added constantly being added.
