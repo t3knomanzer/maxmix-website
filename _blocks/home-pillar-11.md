@@ -1,5 +1,5 @@
 ---
-title: Powerfull
+title: Powerful
 icon: ios-list.svg
 ---
 
