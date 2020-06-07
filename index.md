@@ -33,24 +33,24 @@ header:
     card_style="default"
 
     section_background="default" 
-    section_size="large"
+    section_size="medium"
     section_title=""
     section_header_align="center"
     section_content_align="center"
-    section_padding_remove="top"
   %}
 
-  {% include cards.html     
-    block="home-feature" 
+  {% include gallery.html 
+    gallery="home/promo/"
     grid="1-4"
-    gutter="large"
+    gutter="small"
+    caption="false"
+    lightbox="true"
 
-    section_background="muted" 
-    section_size="large"
-    section_title=""
+    section_background="default" 
+    section_size="small"
+    section_title="" 
     section_header_align="center"
     section_content_align="center"
-    section_padding_remove="top"
   %}
 
   {% include blog.html 
@@ -60,22 +60,12 @@ header:
     view_all="/blog/"
 
     section_background="default" 
-    section_size="large"
+    section_size="small"
     section_title="" 
     section_header_align="center"
     section_content_align="center"
-    section_padding_remove="top"
   %}
 
-  {% include mailchimp.html 
-    section_size="large"
-    section_title="Be the first to hear!"
-    section_subtitle="Subscribe to our newsletter and receive the latest news and announcements."
-    section_container="xsmall"
-    section_header_align="center"
-    section_background="primary"
-  %}
-  
 {% else %}
 
 
