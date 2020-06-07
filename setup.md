@@ -1,6 +1,6 @@
 ---
 title:                    Setup
-subtitle:                 Download, install, enjoy.
+subtitle:                 Maxmix is easy to setup. Download, install, enjoy!
 width:                    expand        # Options: full, expand, small, xsmall
 
 navbar:
@@ -16,10 +16,7 @@ header:
   parallax:           true              # Enable content parallax, Options: true
   container:          small             # Content width, Options: expand, small, xsmall
 
-  # background_color: "#1B33BF"
   background_image:   setup/header.jpg
-  # background_align: center-center     # Image position, Options: center-center, top-center, bottom-center, center-right, center-left
-  # background_video:   Working-Space.mp4
   background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
 
 sidebar:

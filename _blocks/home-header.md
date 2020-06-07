@@ -1,6 +1,6 @@
 ---
 title: The volume mixer for everyone
-subtitle: Control the volume of every application with ease. Open source software and hardware gives you flexibility and the support of a great communitty. 
+subtitle: Maxmix puts volume control at the reach of your hand. 
 ---
 
-{% include button.html size="xlarge" text="Download" icon="download" url="#" style="default" %} {% include button.html size="xlarge" text="Purchase" icon="cart" url="#" style="primary" %}
+{% include button.html size="xlarge" text="Hardware" icon="cog" url="https://www.thingiverse.com/thing:4343186" style="primary" %} {% include button.html size="xlarge" text="Software" icon="download" url="https://github.com/rubenhenares/maxmix-desktop/releases/download/v0.9.1/MaxMix_0.9.1.exe" style="primary" %}

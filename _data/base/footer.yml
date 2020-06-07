@@ -20,17 +20,31 @@ center:
 columns:
   - title: BUILD
     links:
+      - title: Overview
+        url: /build/
       - title: Parts
-        url: /#
+        url: /build-parts/
+      - title: Soldering
+        url: /build-soldering/
+      - title: Electronics
+        url: /build-electronics/
+      - title: Wiring
+        url: /build-wiring/
       - title: Assembly
-        url: /#
+        url: /build-assembly/
 
   - title: SETUP
     links:
-      - title: Application
-        url: /#
-      - title: Firmware
-        url: /#
+        - title: Overview
+          url: /setup/#overview
+        - title: Requirements
+          url: /setup/#requirements
+        - title: Desktop Application
+          url: /setup/#desktop-application
+        - title: Firmware
+          url: /setup/#firmware
+        - title: Troubleshoot
+          url: /setup/#troubleshoot
 
   - title: CONTRIBUTE
     links:

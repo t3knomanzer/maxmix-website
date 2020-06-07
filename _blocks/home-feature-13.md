@@ -1,6 +1,5 @@
 ---
-title: Sidebars
-icon: ios-right-navigation-toolbar.svg
+title: Desktop application
 ---
 
-Display custom left or right aligned sidebars on posts and pages.
+Configure every single aspect of the controller from the desktop application.

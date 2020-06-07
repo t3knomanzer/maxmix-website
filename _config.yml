@@ -10,8 +10,8 @@ description:            The volume controler for everyone.
 url:                    "https://rubenhenares.github.com" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                "/maxmix" # Site subpath, e.g. /blog
 lang:                   en
-logo:                   logo-dark.svg # if not provided title is used
-logo_light:             logo-light.svg # if not provided title is used
+logo:                   logo-color-dark-web.svg # if not provided title is used
+logo_light:             logo-color-light-web.svg # if not provided title is used
 permalink:              /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:            "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads:                /uploads/ # Path to post content assets directory i.e post images, pdfs etc
@@ -23,50 +23,30 @@ paginate_path:          "/blog/:num/" # Blog path
 # Default author settings
 author:
   name:                 Ruben Henares
-  avatar:               avatar-tom.png
-  title:                Support     
-  bio:                  I am the CEO of this company, loved by everyone, just plain awesome so you want to follow me all the time.
-  url:
-  email:                info@blacompany.com
-  website:
-  facebook:             https://www.facebook.com/
+  avatar:               avatar-ruben.png
+  title:                Developer     
+  bio:                  
+  url:                  
+  email:                
+  website:              
+  facebook:             
   flickr:
   dribbble:
-  github:
+  github:               
   googleplus:
-  instagram:            https://www.instagram.com/
-  linkedin:
+  instagram:            
+  linkedin:             
   pinterest:
   twitter:
-  vimeo:
+  vimeo:                
   youtube:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-  john:
-    name:               John Brown
-    title:              Support     
-    avatar:             avatar-john.png
-  evan:
-    name:               Evan Wells
-    title:              Support    
-    avatar:             avatar-evan.png
-  sara:
-    name:               Sara Galen
-    title:              Lead Developer     
-    avatar:             avatar-sara.png
-  alex:
-    title:              Design Engineer     
-    name:               Alex Koch
-    avatar:             avatar-alex.png
-  daniel:
-    title:              Developer      
-    name:               Daniel Shultz
-    avatar:             avatar-daniel.png
-  tom:
+  placeholder:
+    name:               Jane Doe
     title:              Developer     
-    name:               Tom Farrell
-    avatar:             avatar-tom.png
+    avatar:             avatar-placeholder.png
 
 navbar:
   layout:               default    # Options: default, center
@@ -79,23 +59,23 @@ navbar:
 footer:                 # Default footer image settings
   style:                secondary # default, muted, primary, secondary
   layout:               columns # center or columns
-  copyright:            Made with love by Ruben Henares
+  copyright:            Made with love by Ruben Henares.
 
 mailchimp:
   form_action:          000000
   hidden_name:          000000
   
-google_analytics:       # Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:       UA-168771356-1 # Google analytics code, get your code here https://www.google.com/analytics/
 google_maps_api_key:    # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 disqus:
   shortname:            # Disqus comments shortname, requires Disqus account https://disqus.com/
 
-instagram_accesstoken:  
+instagram_accesstoken:  # No longer supported
 
 donations:
   paypal:
-    id:                 00000 # PayPal button ID
+    id:                 SQS6XJZBCBZA8 # PayPal button ID
     navbar:             true # true
 
 # Social share buttons
@@ -108,18 +88,18 @@ social_share:
 
 # Social buttons
 social_networks:
-  email:                info@blacompany.com
-  website:
-  facebook:             https://www.facebook.com/
+  email:                
+  website:          
+  facebook:             
   flickr:
   dribbble:
-  github:
+  github:               https://www.github.com/rubenhenares/
   googleplus:
-  instagram:            https://www.instagram.com/
-  linkedin:
+  instagram:            
+  linkedin:             https://www.linkedin.com/in/rubenhenares/
   pinterest:
   twitter:
-  vimeo:
+  vimeo:                https://vimeo.com/rhenares
   youtube:
 
 # Build settings
@@ -192,12 +172,14 @@ defaults:
         header_size:        large
         heading_size:       medium
         parallax:           true
+
   # _pages
   - scope:
       path:                 ""
       type:                 pages
     values:
       layout:               page
+      
   # _portfolio
   - scope:
       path:                 ""

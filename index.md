@@ -15,13 +15,7 @@ header:
   container:          small             # Content width, Options: expand, small, xsmall
   content:                              # Source block file for first column if layout set to 1-1, 1-2, 1-3 or 2-3
     block:            home-header       # Reference block file e.g. for _blocks/header-one.md enter header-one
-  # content-2:                          # Source block file for second column if layout is set to 1-1, 1-2, 1-3 or 2-3
-  #   block: content-2
-  #   title: false
 
-  # background_color: "#1B33BF"
-  # background_image: Working-Space.jpg
-  # background_align: center-center     # Image position, Options: center-center, top-center, bottom-center, center-right, center-left
   background_video:   /home/header.mp4
   background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
 ---
@@ -30,28 +24,33 @@ header:
 
 {% if site.template == 'base' %}
 
-  {% include cards.html 
-    
-    block="home-feature" 
+  {% include cards.html     
+    block="home-pillar" 
     grid="1-4"
     media="top"
     icon_color="#1B33BF"
     gutter="large"
+    card_style="default"
 
     section_background="default" 
     section_size="large"
-    section_title="" 
+    section_title=""
     section_header_align="center"
     section_content_align="center"
+    section_padding_remove="top"
   %}
 
-  {% include block.html 
-    block="home-videos"
-    block_title="false"
+  {% include cards.html     
+    block="home-feature" 
+    grid="1-4"
+    gutter="large"
+
+    section_background="muted" 
     section_size="large"
-    section_title="" 
-    section_container="xsmall"
+    section_title=""
     section_header_align="center"
+    section_content_align="center"
+    section_padding_remove="top"
   %}
 
   {% include blog.html 
@@ -65,12 +64,13 @@ header:
     section_title="" 
     section_header_align="center"
     section_content_align="center"
+    section_padding_remove="top"
   %}
 
   {% include mailchimp.html 
     section_size="large"
-    section_title="Mailchimp newsletter signup"
-    section_subtitle="Out of with muff safe found in yourself took didn't god, the world have the bedding"
+    section_title="Be the first to hear!"
+    section_subtitle="Subscribe to our newsletter and receive the latest news and announcements."
     section_container="xsmall"
     section_header_align="center"
     section_background="primary"

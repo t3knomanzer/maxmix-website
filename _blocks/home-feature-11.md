@@ -1,6 +1,5 @@
 ---
-title: Backgrounds
-icon: ios-adjust.svg
+title: Firmware installer
 ---
 
-Set section and header background color, image, video, and overlay.
+Download and update the controller with single click.

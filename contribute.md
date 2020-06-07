@@ -1,7 +1,7 @@
 ---
 title:                    Contribute
-subtitle:                 It's more fun when we build it together.
-width:                    expand        # Options: full, expand, small, xsmall
+subtitle:                 Maxmix is open-source. Let's build it together!
+width:                    full        # Options: full, expand, small, xsmall
 section:                  large
 
 navbar:
@@ -17,43 +17,19 @@ header:
   parallax:           true              # Enable content parallax, Options: true
   container:          small             # Content width, Options: expand, small, xsmall
 
-  # background_color: "#1B33BF"
   background_image:   contribute/header.jpg
-  # background_align: center-center     # Image position, Options: center-center, top-center, bottom-center, center-right, center-left
-  # background_video:   Working-Space.mp4
   background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
 
 ---
 
+[donations]:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
 
-## Overview
-MaxMix is open source software and hardware, contributing to it's development is very easy.
+{% include cards.html 
+  block="contribute-area"
+  grid="1-2"
 
-There are four areas to which you can contribute, all described below.  
-I only ask you to read the contribution guidelines and licenses for repositories.
-
-Not a developer? No problem! Support by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url) to the project!
-
-## Desktop app
-Are you into Windows desktop application programming?  
-The desktop app is written in C# and WPF.
-
-[GitHub](https://github.com/rubenhenares/maxmix-desktop)
-
-## Firmware
-Are microcontrollers your thing?   
-MaxMix uses an off-the-shelf Arduino Nano.
-
-[GitHub](https://github.com/rubenhenares/maxmix-embedded)
-
-## Device
-Are you into product design?  
-Create a remix of the original design!
-
-[Thingiverse](https://www.thingiverse.com/thing:4343186)
-
-## Website
-This website itself is also hosted on GitHub.  
-Suggestions, improvements?
-
-[GitHub](https://github.com/rubenhenares/maxmix)
+  section_size="large"
+  section_background="default"
+  section_header_align="left"
+  section_content_align="left"
+%}

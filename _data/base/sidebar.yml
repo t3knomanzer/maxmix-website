@@ -19,14 +19,18 @@ build:
     nav:
     - title: Sections
       links:
-        - title: Home Page
-          url: /
-        - title: Portfolio
-          url: /portfolio/
-        - title: Blog
-          url: /blog/
-        - title: 404 Page
-          url: /404/
+        - title: Overview
+          url: /build/
+        - title: Parts
+          url: /build-parts/
+        - title: Soldering
+          url: /build-soldering/
+        - title: Electronics
+          url: /build-electronics/
+        - title: Wiring
+          url: /build-wiring/
+        - title: Assembly
+          url: /build-assembly/
 
 setup:
   - widget: navigation

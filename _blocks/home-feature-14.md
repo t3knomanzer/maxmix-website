@@ -1,6 +1,5 @@
 ---
-title: FAQs
-icon: ios-faq.svg
+title: Automatic updates
 ---
 
-Address customer concerns with accordion styled FAQs.
+Get automatically notified whenever there is a new version of the software.
