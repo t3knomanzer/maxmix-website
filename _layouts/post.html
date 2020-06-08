@@ -10,13 +10,6 @@ layout: default
     {% endif %}
   </div>
   
-  {% if page.mailchimp %}
-    <div class="uk-margin-large-top uk-background-muted uk-padding-large">
-      <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center">{{ site.data[site.template].translation[site.lang].newsletter_signup | default: 'Newsletter Signup' }}</h3>
-      {% include mailchimp.html %}
-    </div>
-  {% endif %}
-
   {% if site.disqus.shortname %}
       {% include disqus_comments.html %}
   {% endif %}

@@ -1,14 +1,5 @@
 # Sidebar widgets
 blog:
-  - widget: tagged
-    type: posts
-    primary:
-      title: Product news
-      tag: news
-    secondary:
-      title: Editor picks
-      tag: pick
-
   - widget: latest
     type: posts
     count: 15
