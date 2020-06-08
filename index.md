@@ -40,7 +40,7 @@ header:
   %}
 
   {% include gallery.html 
-    gallery="home/promo/"
+    gallery="home/product/"
     grid="1-4"
     gutter="small"
     caption="false"
