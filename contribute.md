@@ -30,6 +30,6 @@ header:
 
   section_size="large"
   section_background="default"
-  section_header_align="left"
-  section_content_align="left"
+  section_header_align="center"
+  section_content_align="center"
 %}
