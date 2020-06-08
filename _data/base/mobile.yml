@@ -1,11 +1,11 @@
 # Navbar menu navigation links
 - title: Home
-  url: 
+  url: /maxmix/
 - title: Build
-  url: build/
+  url: /maxmix/build/
 - title: Setup
-  url: setup/
+  url: /maxmix/setup/
 - title: Contribute
-  url: contribute/
+  url: /maxmix/contribute/
 - title: Blog
-  url: blog/
+  url: /maxmix/blog/
