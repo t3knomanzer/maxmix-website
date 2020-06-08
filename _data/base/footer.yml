@@ -35,16 +35,16 @@ columns:
 
   - title: SETUP
     links:
-        - title: Overview
-          url: /setup/#overview
-        - title: Requirements
-          url: /setup/#requirements
-        - title: Desktop Application
-          url: /setup/#desktop-application
-        - title: Firmware
-          url: /setup/#firmware
-        - title: Troubleshoot
-          url: /setup/#troubleshoot
+      - title: Overview
+        url: /setup/#overview
+      - title: Requirements
+        url: /setup/#requirements
+      - title: Desktop Application
+        url: /setup/#desktop-application
+      - title: Firmware
+        url: /setup/#firmware
+      - title: Troubleshoot
+        url: /setup/#troubleshoot
 
   - title: CONTRIBUTE
     links:
@@ -56,10 +56,10 @@ columns:
         url: https://www.thingiverse.com/thing:4343186
       - title: Website
         url: https://github.com/rubenhenares/maxmix
-      -title: Donate!
+      - title: Donate!
         url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
   
   - title: CONNECT
     links:
       - title: Chat
-        url: /
+        url: /#
