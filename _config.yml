@@ -96,11 +96,12 @@ social_networks:
   github:               https://www.github.com/rubenhenares/
   googleplus:
   instagram:            
-  linkedin:             https://www.linkedin.com/in/rubenhenares/
+  linkedin:             
   pinterest:
   twitter:
-  vimeo:                https://vimeo.com/rhenares
+  vimeo:                
   youtube:
+  thingiverse:          https://www.thingiverse.com/T3knoManzer/about
 
 # Build settings
 markdown:               kramdown
