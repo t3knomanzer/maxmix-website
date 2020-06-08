@@ -75,8 +75,8 @@ instagram_accesstoken:  # No longer supported
 
 donations:
   paypal:
-    id:                 SQS6XJZBCBZA8 # PayPal button ID
-    navbar:             true # true
+    id:                 # PayPal button ID
+    navbar:             false
 
 # Social share buttons
 social_share:
@@ -98,11 +98,11 @@ social_networks:
   instagram:            
   linkedin:             
   pinterest:
-  twitter:
+  twitter:              https://twitter.com/maxmixos
   vimeo:                
   youtube:
-  thingiverse:          https://www.thingiverse.com/T3knoManzer/about
-
+  thingiverse:          https://www.thingiverse.com/thing:4343186
+  
 # Build settings
 markdown:               kramdown
 highlighter:            rouge
