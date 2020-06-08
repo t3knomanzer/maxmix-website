@@ -14,4 +14,7 @@ center:
     url: /blog/
     
 right:
+  - title: Donate
+    url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
+    button: primary
   
