@@ -1,6 +1,6 @@
 ---
-title: Feeling lost
-subtitle: The page you are looking for cannot be found, please navigate to homepage.
+title: _
+subtitle: The page you are looking for cannot be found.
 ---
 
-{% include button.html text="Home" url="https://eon.jekyll.plus/" style="default" %}
+{% include button.html text="Home" url="/" style="default" %}
