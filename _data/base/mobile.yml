@@ -1,12 +1,11 @@
 # Navbar menu navigation links
 - title: Home
   url: /
-
-- title: Faq
-  url: /faq/
-
-- title: Contact
-  url: /contact/
-
+- title: Build
+  url: /build/
+- title: Setup
+  url: /setup/
+- title: Contribute
+  url: /contribute/
 - title: Blog
   url: /blog/
