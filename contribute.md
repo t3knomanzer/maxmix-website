@@ -22,8 +22,6 @@ header:
 
 ---
 
-[donations]:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
-
 {% include cards.html 
   block="contribute-area"
   grid="1-2"
