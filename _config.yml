@@ -7,8 +7,8 @@
 # Site settings
 title:                  MaxMix
 description:            The volume controler for everyone.
-url:                    "https://t3knomanzer.github.com" # Site base hostname & protocol, e.g. http://example.com
-baseurl:                "/maxmix" # Site subpath, e.g. /blog
+url:                    "https://maxmixproject.com" # Site base hostname & protocol, e.g. http://example.com
+baseurl:                "" # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-color-dark-web.svg # if not provided title is used
 logo_light:             logo-color-light-web.svg # if not provided title is used

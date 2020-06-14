@@ -49,13 +49,13 @@ columns:
   - title: CONTRIBUTE
     links:
       - title: Destkop
-        url: https://github.com/rubenhenares/maxmix-desktop/
+        url: https://github.com/t3knomanzer/maxmix-software/
       - title: Firmware
-        url: https://github.com/rubenhenares/maxmix-embedded
+        url: https://github.com/t3knomanzer/maxmix-software/
       - title: Hardware
         url: https://www.thingiverse.com/thing:4343186
       - title: Website
-        url: https://github.com/rubenhenares/maxmix
+        url: https://github.com/t3knomanzer/maxmix
       - title: Donate!
         url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
   
