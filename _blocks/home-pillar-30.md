@@ -3,4 +3,4 @@ title: Community Driven
 icon: ios-communication.svg
 ---
 
-It's ours to build. It's ours to enjoy!
+Propose new features, contribute to the development, show-off your builds.
