@@ -12,6 +12,9 @@
 This repository contains the code for the user-facing product website. 
 It uses github-pages, jekyll and the commercial [EON theme](https://eon.unbound.studio/).
 
+## Developing
+...
+
 ## Contributing
 Contributions are *very* welcome!
 
@@ -25,6 +28,7 @@ and general hints on how to prepare your pull request. You can also ask for clar
 ## Community
 You can join these groups and chats to discuss your-project related questions:
 
+- Gitter: https://gitter.im/maxmixproject/developers
 - Twitter: https://twitter.com/maxmixproject/
 - Reddit: https://www.reddit.com/r/maxmixproject/
 
