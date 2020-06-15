@@ -1,6 +1,6 @@
 ---
 title: Setup
-subtitle: Maxmix is easy to setup. Download, install, enjoy!
+subtitle: Download, install, enjoy!
 width:                    expand        # Options: full, expand, small, xsmall
 
 navbar:

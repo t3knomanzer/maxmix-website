@@ -1,6 +1,6 @@
 ---
 title:                    Contribute
-subtitle:                 Maxmix is open-source. Let's build it together!
+subtitle:                 Let's build it together!
 width:                    full        # Options: full, expand, small, xsmall
 section:                  large
 

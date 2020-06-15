@@ -1,6 +1,6 @@
 ---
 title:                    Build
-subtitle:                 MaxMix has been designed to be easy and fun to build.
+subtitle:                 Easy and fun to build.
 width:                    expand        # Options: full, expand, small, xsmall
 section:                  large
 
