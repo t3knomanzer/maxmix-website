@@ -43,43 +43,57 @@ sidebar:
 [part-led-ring]:https://www.aliexpress.com/item/32758176722.html
 
 # Parts
-All parts for the maxmix controller can be purchased online.
-Links to the parts are provided in this page but feel free to purchase them elsewhere.
-When looking for alternatives, just make sure the part specifications match.
-
-The total cost of the parts is around **$25.00 USD** including shipping.
+All parts for the maxmix controller can be found and purchased online.  
+Links to the parts are provided below but feel free to purchase them elsewhere.  
+When looking for alternatives, just make sure the part specifications match to avoid any issues.
 
 ## 3D Print
-The enclosure for the controller is made of a couple of 3D printed parts.
+The enclosure for the controller is made of a couple of 3D printed parts and can be downloaded from [Thingiverse](https://www.thingiverse.com/thing:4343186).
 
 If you don't have a 3D printer, I recommend using a community printing service such as [Treatstock](https://www.treatstock.com/), it is the most cost effective method.
 
-Part files and printing specifications can be found in [Thingiverse](https://www.thingiverse.com/thing:4343186).
+{% include gallery.html 
+  gallery="build/parts/enclosure/"
+  grid="1-4"
+  gutter="small"
+  caption="false"
+  lightbox="true"
+%}
 
 ## Hardware
-Below are the rest of parts needed.
+Below are the rest of parts needed to complete the project.
 
 - 4x [M2 10mm Countersink screws][part-m2x10mm]
-- 6x [M2 5mm screws][part-m2x5mm]
-- 4x [Silicon bumper 2mmx8mm][part-bumpers]
+- 6x [M2 5mm Screws][part-m2x5mm]
+- 4x [Silicon bumper 2x8mm][part-bumpers]
 - 1x [Arduino Nano 328P CH340][part-mcu]
 - 1x [128x32 I2C OLED display][part-display]
 - 1x [Rotary encoder][part-rotary]
 - 1x [Power bus][part-power-bus]
-- 11x [Female to Female Jumper Wires (10cm)][part-wires]
-- 1x [(Optional) WS2812 5050 LED Ring 8-bit][part-led-ring]
+- 11x [10cm Female to female jumper wires][part-wires]
+- 1x [WS2812 5050 LED Ring 8-bit (Optional)][part-led-ring]
+
+{% include gallery.html 
+  gallery="build/parts/hardware/"
+  grid="1-4"
+  gutter="small"
+  caption="false"
+  lightbox="true"
+%}
+
 
 ## Tools
-The only tools needed to assemble the controller are:
+Here are the tools you are going to need.
 
 - Small philips screwdriver
 - Soldering iron (or alternative such as conductive silver epoxy)
+- Needle nose pliers
 - Wire cutting pliers
-- (Optional) Wire stripper
+- Wire stripper (Optional)
+- Third hand (Optional)
 
-## Gallery
 {% include gallery.html 
-  gallery="build/parts/"
+  gallery="build/parts/tools/"
   grid="1-4"
   gutter="small"
   caption="false"

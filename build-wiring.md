@@ -28,16 +28,23 @@ sidebar:
 
 {% include alert.html text="Connecting wires incorrectly will destroy electronic components." style="danger" %}
 
-### 1. Power
+## MCU
 Use the table below to connect the wires between the **MCU** and the **power bus**.
 
-| Power bus             | MCU  |
-|-----------------------|------|
-|-                      |GND   |
-|+                      |5V    |
+| MCU             | Power bus  |
+|-----------------|------------|
+|GND              |-           |
+|5V               |+           |
 
+{% include gallery.html 
+  gallery="build/wiring/mcu"
+  grid="1-4"
+  gutter="small"
+  caption="false"
+  lightbox="true"
+%}
 
-### 2. Rotary encoder
+## Rotary encoder
 Use the table below to connect the wires between the **MCU**, **rotary encoder** and **power bus**.
 
 | Rotary encoder        | Power bus | MCU |
@@ -48,7 +55,15 @@ Use the table below to connect the wires between the **MCU**, **rotary encoder**
 |DT                     |           |A2   |
 |CLK                    |           |A1   |
 
-### 3. Display
+{% include gallery.html 
+  gallery="build/wiring/rotary"
+  grid="1-4"
+  gutter="small"
+  caption="false"
+  lightbox="true"
+%}
+
+## Display
 Use the table below to connect the wires between the **MCU**, **display** and **power bus**. 
 The pins of the display are numbered from top to bottom.
 
@@ -60,7 +75,25 @@ The pins of the display are numbered from top to bottom.
 |(4) SDA                |            |A4    |
 
 {% include gallery.html 
-  gallery="build/wiring/"
+  gallery="build/wiring/display"
+  grid="1-4"
+  gutter="small"
+  caption="false"
+  lightbox="true"
+%}
+
+## LED Ring (Optional)
+Use the table below to connect the wires between the **LED ring**, **MCU** and **power bus**. 
+The pins of the display are numbered from top to bottom.
+
+| LED Ring              | Power bus  | MCU  |
+|-----------------------|------------|------|
+|GND                    |-           |      |
+|VCC                    |+           |      |
+|DI                     |            |D12   |
+
+{% include gallery.html 
+  gallery="build/wiring/led-ring"
   grid="1-4"
   gutter="small"
   caption="false"

@@ -27,7 +27,9 @@ sidebar:
 # Overview
 
 The maxmix controller has been designed to be easy and fun to build.  
-It uses a combination of 3D printed parts and off the shelf electronic components.   
-All parts can be easily ordered online.
+It uses a combination of 3D printed parts and off-the-shelf electronic components.   
+All parts can be easily found and ordered online!
+
+The total cost of the parts is **~$25.00 USD** including shipping and takes around **1h** to build.
 
 Let's get started!
