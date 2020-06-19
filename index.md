@@ -55,6 +55,14 @@ header:
     card_style="default"
   %}
 
+  {% include cards.html 
+    block="home-card-30" 
+    media="left"
+    section_size="small"
+    section_background="default"
+    card_style="default"
+  %}
+
   {% include gallery.html 
     gallery="home/product/"
     grid="1-4"

@@ -1,6 +1,7 @@
 ---
-title: Make it your own
-image: /home/cards/05.jpg
+title: Yours only
+image: /home/cards/04.jpg
 ---
 
-Build the base version, find a remix from the community of make your own. Customization is at the heart of maxmix.
+Customization is at it's heart.  
+Pick one from the many versions available of the hardware and tune every aspect of it from the software.

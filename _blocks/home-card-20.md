@@ -1,8 +1,7 @@
 ---
-title: Make it your own
-image: /home/cards/08.jpg
+title: Much more
+image: /home/cards/03.jpg
 ---
 
-It begins with the hardware.  
-Pick the base model, one of the many remixes from the community or build your own.  
-Tune every setting in the software to fit your needs.
+Not just for gamers.  
+Maxmix can control the volume of every application on you pc individually.  
