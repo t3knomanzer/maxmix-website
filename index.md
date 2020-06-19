@@ -18,7 +18,7 @@ header:
 
   # background_video:   /home/header.mp4
   background_image:   /home/header.jpg
-  background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
+  background_overlay: "linear-gradient(to left top,rgba(252, 97, 97, 0.8) 0%, rgba(69, 69, 69, 0.8) 80%)"
 ---
 
 [comment]: # (This actually is the most platform independent comment)
@@ -29,7 +29,7 @@ header:
     block="home-pillar" 
     grid="1-4"
     media="top"
-    icon_color="#1B33BF"
+    icon_color="#FC6161"
     gutter="large"
     card_style="default"
     section_background="default" 

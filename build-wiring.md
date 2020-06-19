@@ -18,7 +18,7 @@ header:
   container:          small             # Content width, Options: expand, small, xsmall
 
   background_image:   build/header.jpg
-  background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
+  background_overlay: "linear-gradient(to left top,rgba(252, 97, 97, 0.8) 0%, rgba(69, 69, 69, 0.8) 80%)"
 
 sidebar:
     right:             build

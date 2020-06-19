@@ -1,6 +1,6 @@
 ---
 title: Much more
-image: /home/cards/01.jpg
+image: /home/cards/02.jpg
 ---
 
 Not just for gamers.  

@@ -1,6 +1,6 @@
 ---
 title: Perfect balance
-image: /home/cards/02.jpg
+image: /home/cards/01.jpg
 ---
 
 Say goodbye to the windows mixer.  
