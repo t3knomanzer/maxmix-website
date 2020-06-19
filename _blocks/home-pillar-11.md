@@ -1,6 +1,6 @@
 ---
-title: Powerful
+title: Flexible
 icon: ios-list.svg
 ---
 
-With new features constantly being added by our amazing contributors.
+The software allows you to customize every aspect it.

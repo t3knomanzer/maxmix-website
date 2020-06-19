@@ -3,4 +3,4 @@ title: Simple
 icon: ios-adjust.svg
 ---
 
-Designed to be accessible, maxmix is easy and fun to build and use.
+Designed to be accessible, maxmix is easy to build and easy use.

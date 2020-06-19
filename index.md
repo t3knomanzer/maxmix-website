@@ -16,7 +16,8 @@ header:
   content:                              # Source block file for first column if layout set to 1-1, 1-2, 1-3 or 2-3
     block:            home-header       # Reference block file e.g. for _blocks/header-one.md enter header-one
 
-  background_video:   /home/header.mp4
+  # background_video:   /home/header.mp4
+  background_image:   /home/header.jpg
   background_overlay: "linear-gradient(to left top,rgba(218, 91, 197, 0.8) 0%,rgba(151, 27, 191, 0.8) 30%,rgba(2, 8, 212, 0.8) 80%)"
 ---
 
@@ -31,12 +32,27 @@ header:
     icon_color="#1B33BF"
     gutter="large"
     card_style="default"
-
     section_background="default" 
     section_size="medium"
     section_title=""
     section_header_align="center"
     section_content_align="center"
+  %}
+
+  {% include cards.html 
+    block="home-card-10" 
+    media="left"
+    section_size="small"
+    section_background="default"
+    card_style="default"
+  %}
+
+  {% include cards.html 
+    block="home-card-20" 
+    media="right"
+    section_size="small"
+    section_background="default"
+    card_style="default"
   %}
 
   {% include gallery.html 
