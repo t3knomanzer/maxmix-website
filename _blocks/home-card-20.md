@@ -1,6 +1,6 @@
 ---
 title: Make it your own
-image: /home/cards/05.jpg
+image: /home/cards/08.jpg
 ---
 
 It begins with the hardware.  
