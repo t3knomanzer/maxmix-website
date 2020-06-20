@@ -1,5 +1,5 @@
 ---
-title: Yours only
+title: Make it yours
 image: /home/cards/09.jpg
 ---
 

@@ -14,7 +14,7 @@ header:
   height:                               # Enable viewport height, Options: full
   header_size:        xlarge            # Only if height disabled
   heading_size:       medium            # Title size, Options: small, medium, large
-  parallax:           true              # Enable content parallax, Options: true
+  parallax:           false              # Enable content parallax, Options: true
   container:          small             # Content width, Options: expand, small, xsmall
 
   background_image:   contribute/header.jpg

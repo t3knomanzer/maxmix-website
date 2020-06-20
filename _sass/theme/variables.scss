@@ -1,11 +1,11 @@
 // Global variables
-$global-primary-background:                     #1B33BF;
-$global-secondary-background:                   #000;
+$global-primary-background:                     #FC6161;
+$global-secondary-background:                   #454545;
 $global-success-background:                     #32d296;
 $global-warning-background:                     #faa05a;
 $global-danger-background:                      #D95B72;
 $global-font-family:                            system-ui;
-$global-link-color:                             lighten($global-primary-background, 20%);
+$global-link-color:                             $global-primary-background;
 $global-link-hover-color:                       lighten($global-primary-background, 20%);
 $global-small-font-size:                        0.875rem;
 $global-muted-color:                            #A9AAAB;
@@ -55,7 +55,7 @@ $article-meta-line-height:                      1.6;
 
 // Button variables
 $button-font-weight:                            400;
-$button-default-color:                          #222;
+$button-default-color:                          #454545;
 $button-default-hover-background:               $button-default-color;
 $button-default-hover-color:                    #fff;
 $button-default-active-background:              $button-default-color;
@@ -67,7 +67,7 @@ $button-warning-background:                     $global-warning-background;
 $button-warning-hover-background:               darken($button-warning-background, 7%);
 $button-success-background:                     $global-success-background;
 $button-success-hover-background:               darken($button-success-background, 5%);
-$inverse-button-primary-color:                  #222;
+$inverse-button-primary-color:                  #454545;
 $inverse-button-primary-hover-color:            #000;
 
 // Card variables

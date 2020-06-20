@@ -11,7 +11,7 @@ header:
   height:             full              # Enable viewport height, Options: full
   header_size:        large             # Only if height disabled
   heading_size:       medium            # Title size, Options: small, medium, large
-  parallax:           true              # Enable content parallax, Options: true
+  parallax:           false              # Enable content parallax, Options: true
   container:          small             # Content width, Options: expand, small, xsmall
   content:                              # Source block file for first column if layout set to 1-1, 1-2, 1-3 or 2-3
     block:            home-header       # Reference block file e.g. for _blocks/header-one.md enter header-one
@@ -40,7 +40,7 @@ header:
   %}
 
   {% include cards.html 
-    block="home-card-10" 
+    block="home-what-10" 
     media="left"
     section_size="small"
     section_background="default"
@@ -48,7 +48,7 @@ header:
   %}
 
   {% include cards.html 
-    block="home-card-20" 
+    block="home-what-30" 
     media="right"
     section_size="small"
     section_background="default"
@@ -56,11 +56,22 @@ header:
   %}
 
   {% include cards.html 
-    block="home-card-30" 
+    block="home-what-20" 
     media="left"
     section_size="small"
     section_background="default"
     card_style="default"
+  %}
+
+  {% include cards.html 
+    block="home-how" 
+    section_title="How to get one?"
+    section_header_align="center"
+    section_content_align="center"
+    section_size="large"
+    section_background="muted"
+    grid="1-2"
+    gutter="large"
   %}
 
   {% include gallery.html 

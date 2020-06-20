@@ -103,6 +103,10 @@ social_networks:
   youtube:
   thingiverse:          https://www.thingiverse.com/thing:4343186
   reddit:               https://www.reddit.com/r/maxmixproject
+
+downloads:
+  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.9.7/setup.0.9.7.exe
+  hardware:         https://www.thingiverse.com/thing:4343186
   
 # Build settings
 markdown:               kramdown
