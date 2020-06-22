@@ -48,7 +48,7 @@ header:
   %}
 
   {% include cards.html 
-    block="home-what-30" 
+    block="home-what-20" 
     media="right"
     section_size="small"
     section_background="default"
@@ -56,7 +56,7 @@ header:
   %}
 
   {% include cards.html 
-    block="home-what-20" 
+    block="home-what-30" 
     media="left"
     section_size="small"
     section_background="default"
