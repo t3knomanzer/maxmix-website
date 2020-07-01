@@ -36,7 +36,7 @@ Installation is very straight forward but we are providing step by step instruct
 # Desktop Application
 {% include alert.html text="It is recommended that you install the desktop application before you plug-in your device for the first time." %}
 
-1. Download the latest version of the [desktop application](/maxmix/). 
+1. Download the latest version of the desktop application. 
 2. Double click on the installer and follow the instructions on the screen.
 3. Plug-in your device now and wait for Windows to recognize it.  
 4. Launch the application either from the Windows start menu or the shortcut on your desktop.
