@@ -74,18 +74,14 @@ header:
     gutter="large"
   %}
 
-  {% include gallery.html 
-    gallery="home/product/"
-    grid="1-4"
-    gutter="small"
-    caption="false"
-    lightbox="true"
-
-    section_background="default" 
-    section_size="small"
-    section_title="" 
+  {% include block.html 
+    block="home-videos"
+    block_title="false"
+    section_title="How to use it?"
     section_header_align="center"
     section_content_align="center"
+    section_size="small"
+    section_container="small"
   %}
 
   {% include blog.html 
@@ -96,7 +92,7 @@ header:
 
     section_background="default" 
     section_size="small"
-    section_title="" 
+    section_title="Blog" 
     section_header_align="center"
     section_content_align="center"
   %}
