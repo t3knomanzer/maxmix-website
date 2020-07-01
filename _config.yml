@@ -100,12 +100,12 @@ social_networks:
   pinterest:
   twitter:              https://twitter.com/maxmixproject
   vimeo:                
-  youtube:
+  youtube:              https://www.youtube.com/channel/UCU5MRTji6emgxk84aEd7Gqg/
   thingiverse:          https://www.thingiverse.com/thing:4343186
   reddit:               https://www.reddit.com/r/maxmixproject
 
 downloads:
-  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.9.7/setup.0.9.7.exe
+  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.10.0/Maxmix.0.10.0.msi
   hardware:         https://www.thingiverse.com/thing:4343186
   
 # Build settings
