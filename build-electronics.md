@@ -1,5 +1,4 @@
 ---
-title:                    Build Electronics
 width:                    expand        # Options: full, expand, small, xsmall
 section:                  large
 

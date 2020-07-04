@@ -1,5 +1,4 @@
 ---
-title:                    Setup
 width:                    expand        # Options: full, expand, small, xsmall
 
 navbar:

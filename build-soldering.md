@@ -1,5 +1,4 @@
 ---
-title:                    Build Soldering
 width:                    expand        # Options: full, expand, small, xsmall
 section:                  large
 

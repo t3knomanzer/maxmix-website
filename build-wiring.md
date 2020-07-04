@@ -1,5 +1,4 @@
 ---
-title:                    Build
 width:                    expand        # Options: full, expand, small, xsmall
 section:                  large
 
