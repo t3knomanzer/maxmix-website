@@ -12,7 +12,7 @@ baseurl:                "" # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-color-dark-web.svg # if not provided title is used
 logo_light:             logo-color-light-web.svg # if not provided title is used
-permalink:              /:year/:month/:day/:title:output_ext/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:              /:year/:month/:day/:title:output_ext # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:            "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads:                /uploads/ # Path to post content assets directory i.e post images, pdfs etc
 template:               base
