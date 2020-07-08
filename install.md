@@ -14,13 +14,13 @@ header:
   parallax:           false              # Enable content parallax, Options: true
   container:          small             # Content width, Options: expand, small, xsmall
   content:
-    block:            setup-header
+    block:            install-header
 
-  background_image:   setup/header.jpg
+  background_image:   install/header.jpg
   background_overlay: "linear-gradient(to left top,rgba(252, 97, 97, 0.8) 0%, rgba(69, 69, 69, 0.8) 80%)"
 
 sidebar:
-    right:             setup
+    right:             install
 ---
 
 
@@ -54,7 +54,7 @@ You can double-click or right click on the icon to access the application.
 
 {% include faqs.html 
   multiple="false" 
-  category="setup" 
+  category="install" 
   section_title="Troubleshoot" 
   section_size="large"
   section_background="default"

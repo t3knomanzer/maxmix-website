@@ -33,18 +33,18 @@ columns:
       - title: Assembly
         url: /build-assembly/
 
-  - title: SETUP
+  - title: INSTALL
     links:
       - title: Overview
-        url: /setup/#overview
+        url: /install/#overview
       - title: Requirements
-        url: /setup/#requirements
+        url: /install/#requirements
       - title: Desktop Application
-        url: /setup/#desktop-application
+        url: /install/#desktop-application
       - title: Firmware
-        url: /setup/#firmware
+        url: /install/#firmware
       - title: Troubleshoot
-        url: /setup/#troubleshoot
+        url: /install/#troubleshoot
 
   - title: CONTRIBUTE
     links:

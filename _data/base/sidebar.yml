@@ -23,18 +23,18 @@ build:
         - title: Assembly
           url: /build-assembly/
 
-setup:
+install:
   - widget: navigation
     nav:
     - title: Sections
       links:
         - title: Overview
-          url: /setup/#overview
+          url: /install/#overview
         - title: Requirements
-          url: /setup/#requirements
+          url: /install/#requirements
         - title: Desktop Application
-          url: /setup/#desktop-application
+          url: /install/#desktop-application
         - title: Firmware
-          url: /setup/#firmware
+          url: /install/#firmware
         - title: Troubleshoot
-          url: /setup/#troubleshoot
+          url: /install/#troubleshoot
