@@ -105,7 +105,7 @@ social_networks:
   reddit:               https://www.reddit.com/r/maxmixproject
 
 downloads:
-  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.10.2/Maxmix.0.10.2.msi
+  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.10.3/Maxmix.0.10.3.msi
   hardware:         https://www.thingiverse.com/thing:4343186
   
 # Build settings
