@@ -21,26 +21,27 @@ header:
   background_overlay: "linear-gradient(to left top,rgba(252, 97, 97, 0.8) 0%, rgba(69, 69, 69, 0.8) 80%)"
 
 sidebar:
-    right:             build
+    right:            build
 ---
 
-[part-power-bus]:https://www.aliexpress.com/item/33007031908.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
+[part-power-bus-ae]:https://www.aliexpress.com/item/33007031908.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
+[part-display-ae]:https://www.aliexpress.com/item/32861875681.html?spm=a2g0o.productlist.0.0.40103137cSuJWL&algo_pvid=72a2cf65-9a42-4ea4-acc1-12d0c207044d&algo_expid=72a2cf65-9a42-4ea4-acc1-12d0c207044d-3&btsid=0ab6d59515893349825181599eeff5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+[part-mcu-ae]:https://www.aliexpress.com/item/32856118319.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
+[part-rotary-ae]:https://www.aliexpress.com/item/1000001872933.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
+[part-m2x5mm-ae]:https://www.aliexpress.com/item/32975410255.html?spm=a2g0o.detail.0.0.496572dbSutw9Y&gps-id=pcDetailCartBuyAlsoBuy&scm=1007.12908.131176.0&scm_id=1007.12908.131176.0&scm-url=1007.12908.131176.0&pvid=ff23c9a7-d73c-454f-a4c6-322a121bd814&_t=gps-id:pcDetailCartBuyAlsoBuy,scm-url:1007.12908.131176.0,pvid:ff23c9a7-d73c-454f-a4c6-322a121bd814,tpp_buckets:668%230%23131923%2319_668%23808%235965%23251_668%23888%233325%2311_668%232846%238111%23466_668%232717%237566%23817
+[part-m2x10mm-ae]:https://www.aliexpress.com/item/33043091484.html?spm=a2g0o.productlist.0.0.767f4a08gAx7Oc&s=p&ad_pvid=2020051218463417005721656175370016165454_11&algo_pvid=9e1a1b86-9322-441f-b087-ef567c376f63&algo_expid=9e1a1b86-9322-441f-b087-ef567c376f63-10&btsid=0ab6d69f15893343947923488e699c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+[part-wires-ae]:https://www.aliexpress.com/item/33007698478.html?spm=a2g0o.productlist.0.0.44b248d7kcLfV9&algo_pvid=b0a90a38-c903-4828-9cf3-0073b86684ae&algo_expid=b0a90a38-c903-4828-9cf3-0073b86684ae-6&btsid=0ab6d67915893355772902177e0543&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+[part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html?spm=a2g0o.productlist.0.0.20513e1cJD6rV0&s=p&ad_pvid=2020051219254812188693811548200016292927_1&algo_pvid=f58a6173-19a8-4de7-9dbb-819984df4870&algo_expid=f58a6173-19a8-4de7-9dbb-819984df4870-0&btsid=0ab50f6115893367485698071ebd11&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+[part-led-ring-ae]:https://www.aliexpress.com/item/32758176722.html
 
-[part-display]:https://www.aliexpress.com/item/32861875681.html?spm=a2g0o.productlist.0.0.40103137cSuJWL&algo_pvid=72a2cf65-9a42-4ea4-acc1-12d0c207044d&algo_expid=72a2cf65-9a42-4ea4-acc1-12d0c207044d-3&btsid=0ab6d59515893349825181599eeff5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-
-[part-mcu]:https://www.aliexpress.com/item/32856118319.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
-
-[part-rotary]:https://www.aliexpress.com/item/1000001872933.html?spm=a2g0s.9042311.0.0.5ea74c4dZSeJCA
-
-[part-m2x5mm]:https://www.aliexpress.com/item/32975410255.html?spm=a2g0o.detail.0.0.496572dbSutw9Y&gps-id=pcDetailCartBuyAlsoBuy&scm=1007.12908.131176.0&scm_id=1007.12908.131176.0&scm-url=1007.12908.131176.0&pvid=ff23c9a7-d73c-454f-a4c6-322a121bd814&_t=gps-id:pcDetailCartBuyAlsoBuy,scm-url:1007.12908.131176.0,pvid:ff23c9a7-d73c-454f-a4c6-322a121bd814,tpp_buckets:668%230%23131923%2319_668%23808%235965%23251_668%23888%233325%2311_668%232846%238111%23466_668%232717%237566%23817
-
-[part-m2x10mm]:https://www.aliexpress.com/item/33043091484.html?spm=a2g0o.productlist.0.0.767f4a08gAx7Oc&s=p&ad_pvid=2020051218463417005721656175370016165454_11&algo_pvid=9e1a1b86-9322-441f-b087-ef567c376f63&algo_expid=9e1a1b86-9322-441f-b087-ef567c376f63-10&btsid=0ab6d69f15893343947923488e699c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-
-[part-wires]:https://www.aliexpress.com/item/33007698478.html?spm=a2g0o.productlist.0.0.44b248d7kcLfV9&algo_pvid=b0a90a38-c903-4828-9cf3-0073b86684ae&algo_expid=b0a90a38-c903-4828-9cf3-0073b86684ae-6&btsid=0ab6d67915893355772902177e0543&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-
-[part-bumpers]:https://www.aliexpress.com/item/32289191938.html?spm=a2g0o.productlist.0.0.20513e1cJD6rV0&s=p&ad_pvid=2020051219254812188693811548200016292927_1&algo_pvid=f58a6173-19a8-4de7-9dbb-819984df4870&algo_expid=f58a6173-19a8-4de7-9dbb-819984df4870-0&btsid=0ab50f6115893367485698071ebd11&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-
-[part-led-ring]:https://www.aliexpress.com/item/32758176722.html
+[part-display-am]:https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/
+[part-mcu-am]:https://www.amazon.com/HiLetgo-ATmega328P-Controller-Development-Unsoldered/dp/B01DLIJQA2/
+[part-rotary-am]:https://www.amazon.com/gp/product/B06XQTHDRR/
+[part-m2x5mm-am]:https://www.amazon.com/gp/product/B076ZV44GN/
+[part-m2x10mm-am]:https://www.amazon.com/gp/product/B01LJRPEXK/
+[part-wires-am]:https://www.amazon.com/gp/product/B077N58HFK/
+[part-bumpers-am]:https://www.amazon.com/gp/product/B073ZKDMM3
+[part-led-ring-am]:https://www.amazon.com/gp/product/B081B9QWP6/
 
 # Parts
 All parts for the maxmix controller can be found and purchased online.  
@@ -63,15 +64,17 @@ If you don't have a 3D printer, I recommend using a community printing service s
 ## Hardware
 Below are the rest of parts needed to complete the project.
 
-- 4x [M2 10mm Countersink screws][part-m2x10mm]
-- 6x [M2 5mm Screws][part-m2x5mm]
-- 4x [Silicon bumper 2x8mm][part-bumpers]
-- 1x [Arduino Nano 328P CH340][part-mcu]
-- 1x [128x32 I2C OLED display][part-display]
-- 1x [Rotary encoder][part-rotary]
-- 1x [Power bus][part-power-bus]
-- 11x [10cm Female to female jumper wires][part-wires]
-- 1x [WS2812 5050 LED Ring 8-bit (Optional)][part-led-ring]
+|Part                                     |Count   |Ali-Express                 |Amazon (US)                   |
+|-----------------------------------------|--------|----------------------------|------------------------------|
+|M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]     |[Link][part-m2x10mm-am]       |
+|M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]      |[Link][part-m2x5mm-am]        |
+|Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]     |[Link][part-bumpers-am]       |
+|Arduino Nano 328P CH340                  |1       |[Link][part-mcu-ae]         |[Link][part-mcu-am]           |
+|128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]       |
+|Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]        |
+|Power bus                                |1       |[Link][part-power-bus-ae]   |     |
+|10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]         |
+|WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]      |
 
 {% include gallery.html 
   gallery="build/parts/hardware/"
