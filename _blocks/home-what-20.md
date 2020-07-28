@@ -4,4 +4,4 @@ image: /home/cards/02.jpg
 ---
 
 Not just for gamers.  
-Multiple modes of operations optimized of different use cases.
+Multiple modes of operation optimized of different use cases.
