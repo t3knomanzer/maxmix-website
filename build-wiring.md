@@ -24,7 +24,7 @@ sidebar:
     right:             build
 ---
 
-## Wiring
+# Wiring
 
 {% include alert.html text="Connecting wires incorrectly will destroy electronic components." style="danger" %}
 

@@ -89,7 +89,7 @@ social_share:
 # Social buttons
 social_networks:
   email:                
-  website:          
+  website:             
   facebook:             
   flickr:
   dribbble:
@@ -103,6 +103,7 @@ social_networks:
   youtube:              https://www.youtube.com/channel/UCU5MRTji6emgxk84aEd7Gqg/
   thingiverse:          https://www.thingiverse.com/thing:4343186
   reddit:               https://www.reddit.com/r/maxmixproject
+  form:                 /contact/
 
 downloads:
   software:         https://github.com/t3knomanzer/maxmix-software/releases/download/0.10.3/Maxmix.0.10.3.msi

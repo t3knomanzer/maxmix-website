@@ -65,19 +65,18 @@ header:
 
   {% include cards.html 
     block="home-how" 
-    section_title="How to get one?"
+    section_title="How?"
     section_header_align="center"
     section_content_align="center"
     section_size="large"
     section_background="muted"
-    grid="1-2"
+    grid="1-3"
     gutter="large"
   %}
 
   {% include block.html 
     block="home-videos"
     block_title="false"
-    section_title="How to use it?"
     section_header_align="center"
     section_content_align="center"
     section_size="small"

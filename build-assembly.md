@@ -24,7 +24,7 @@ sidebar:
     right:             build
 ---
 
-## Assembly
+# Assembly
 1. Pass the shaft of the rotary encoder through the ring. Make sure that the little tab on the front of the encoder lines up with the notch on the bottom side of the ring and that it sits flush.
 2. Pre-bend and organize the wires so they are out of the way.
 3. Bring the top and bottom parts together until they snap in place.

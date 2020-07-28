@@ -25,8 +25,7 @@ sidebar:
 
 
 # Overview
-Maxmix is comprised of two pieces of software, the application running on your computer and the firmware running on the device.
-Installation is very straight forward but we are providing step by step instructions just in case.
+Installation of the software is very straight forward but we are providing step by step instructions just in case.
 
 # Requirements
 - A computer running **Windows 10**.
@@ -45,7 +44,7 @@ The application should now be running and you should see the maxmix icon in the 
 You can double-click or right click on the icon to access the application.
 
 # Firmware
-{% include alert.html text="Make sure the maxmix device is plugged in." %}
+{% include alert.html text="Make sure the maxmix device is plugged in and the maxmix application is closed." %}
 
 1. Launch the **Firmware Installer** from the shortcut on your desktop or in the Windows start menu.
 2. Confirm that the COM port selected on the drop-down is the correct one.

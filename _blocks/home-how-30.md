@@ -2,6 +2,6 @@
 title: 2. Install the software
 ---
 
-Download the software, install it and done! Setting up maxmix is that simple.  
-To know more, checkout the installation instructions.
+A simple installer takes care of everything.  
+Download the software, install it and done! 
 {% include button.html text="Install" url="/install" style="default" %} 

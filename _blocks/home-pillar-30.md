@@ -3,4 +3,4 @@ title: Community Driven
 icon: ios-communication.svg
 ---
 
-Join the community and get involved in the development. Your voice matters.
+Join the community and get involved. Your voice matters.

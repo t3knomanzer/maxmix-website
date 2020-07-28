@@ -38,3 +38,13 @@ install:
           url: /install/#firmware
         - title: Troubleshoot
           url: /install/#troubleshoot
+
+use:
+  - widget: navigation
+    nav:
+    - title: Sections
+      links:
+        - title: Actions
+          url: /use/#actions
+        - title: Modes
+          url: /use/#modes
