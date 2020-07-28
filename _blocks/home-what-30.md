@@ -4,4 +4,4 @@ image: /home/cards/09.jpg
 ---
 
 Designed for customization.  
-Pick your favourite version and tune every aspect of it.
+From hardware to software, tune every aspect of it.
