@@ -34,6 +34,7 @@ sidebar:
 [part-bumpers-ae]:https://www.aliexpress.com/item/32289191938.html?spm=a2g0o.productlist.0.0.20513e1cJD6rV0&s=p&ad_pvid=2020051219254812188693811548200016292927_1&algo_pvid=f58a6173-19a8-4de7-9dbb-819984df4870&algo_expid=f58a6173-19a8-4de7-9dbb-819984df4870-0&btsid=0ab50f6115893367485698071ebd11&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 [part-led-ring-ae]:https://www.aliexpress.com/item/32758176722.html
 
+[part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
 [part-display-am]:https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/
 [part-mcu-am]:https://www.amazon.com/HiLetgo-ATmega328P-Controller-Development-Unsoldered/dp/B01DLIJQA2/
 [part-rotary-am]:https://www.amazon.com/gp/product/B06XQTHDRR/
@@ -72,7 +73,7 @@ Below are the rest of parts needed to complete the project.
 |Arduino Nano 328P CH340                  |1       |[Link][part-mcu-ae]         |[Link][part-mcu-am]           |
 |128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]       |
 |Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]        |
-|Power bus                                |1       |[Link][part-power-bus-ae]   |     |
+|Power bus                                |1       |[Link][part-power-bus-ae]   |[Link][part-power-bus-td]     |
 |10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]         |
 |WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]      |
 
