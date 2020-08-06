@@ -65,17 +65,17 @@ If you don't have a 3D printer, I recommend using a community printing service s
 ## Hardware
 Below are the rest of parts needed to complete the project.
 
-|Part                                     |Count   |Ali-Express                 |Amazon (US)                   |
-|-----------------------------------------|--------|----------------------------|------------------------------|
-|M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]     |[Link][part-m2x10mm-am]       |
-|M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]      |[Link][part-m2x5mm-am]        |
-|Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]     |[Link][part-bumpers-am]       |
-|Arduino Nano 328P CH340                  |1       |[Link][part-mcu-ae]         |[Link][part-mcu-am]           |
-|128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]       |
-|Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]        |
-|Power bus                                |1       |[Link][part-power-bus-ae]   |[Link][part-power-bus-td]     |
-|10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]         |
-|WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]      |
+|Part                                     |Count   |Ali-Express                 |Amazon (US)                            |
+|-----------------------------------------|--------|----------------------------|---------------------------------------|
+|M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]     |[Link][part-m2x10mm-am]                |
+|M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]      |[Link][part-m2x5mm-am]                 |
+|Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]     |[Link][part-bumpers-am]                |
+|Arduino Nano 328P CH340                  |1       |[Link][part-mcu-ae]         |[Link][part-mcu-am]                    |
+|128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]                |
+|Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]                 |
+|Power bus                                |1       |[Link][part-power-bus-ae]   |[Link (Tindie)][part-power-bus-td]     |
+|10cm Female to female jumper wires       |11      |[Link][part-wires-ae]       |[Link][part-wires-am]                  |
+|WS2812 5050 LED Ring 8-bit (Optional)    |1       |[Link][part-led-ring-ae]    |[Link][part-led-ring-am]               |
 
 {% include gallery.html 
   gallery="build/parts/hardware/"
