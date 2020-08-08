@@ -41,7 +41,7 @@ sidebar:
   lightbox="true"
 %}
 
-## Contratulations
+## Congratulations
 Congratulations you have completed the build!
 
 You now have your very own maxmix controller.   
