@@ -23,6 +23,7 @@ Gem::Specification.new do |spec|
     spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.5"
     spec.add_runtime_dependency "jekyll-avatar", "~> 0.6"
     spec.add_runtime_dependency "jemoji", "~> 0.10"
+    spec.add_runtime_dependency "kramdown-parser-gfm"
   
     spec.add_development_dependency "bundler"
   end
