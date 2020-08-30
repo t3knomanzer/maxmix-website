@@ -107,7 +107,7 @@ social_networks:
   form:                 /contact/
 
 downloads:
-  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/1.1.3/Maxmix.1.1.3.msi
+  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/1.1.4/Maxmix.1.1.4.msi
   hardware:         https://www.thingiverse.com/thing:4343186
   
 # Build settings
