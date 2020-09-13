@@ -50,7 +50,7 @@ Links to the parts are provided below but feel free to purchase them elsewhere.
 When looking for alternatives, just make sure the part specifications match to avoid any issues.
 
 ## 3D Print
-The enclosure for the controller is made of a couple of 3D printed parts and can be downloaded from [Thingiverse](https://www.thingiverse.com/thing:4343186).
+The enclosure for the controller is made of a couple of 3D printed parts and can be downloaded from [Prusaprinters.org](https://www.prusaprinters.org/prints/31336-maxmix).
 
 If you don't have a 3D printer, I recommend using a community printing service such as [Treatstock](https://www.treatstock.com/), it is the most cost effective method.
 
