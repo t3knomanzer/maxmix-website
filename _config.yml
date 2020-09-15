@@ -108,7 +108,7 @@ social_networks:
   form:                 /contact/
 
 downloads:
-  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/1.2.0/Maxmix.1.2.0.msi
+  software:         https://github.com/t3knomanzer/maxmix-software/releases/download/1.2.1/Maxmix.1.2.1.msi
   hardware:         https://www.prusaprinters.org/prints/31336-maxmix
   
 # Build settings
