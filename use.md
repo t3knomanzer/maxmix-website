@@ -24,7 +24,7 @@ sidebar:
     right:             use
 ---
 
-# Quick Start
+# Quick Start (1.3.x)
 
 You've built your controller and installed the software. It's time to start using it!
 
