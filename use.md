@@ -53,15 +53,42 @@ The modes available as well as the current mode selected can be seen at the bott
     caption=""
 %}
 
-### Master Mode
-The default mode and most basic one. It allows you to adjust the mas volume of your computer by **rotating** the knob.
+### Output Mode
+Gives you full control over output devices such as headphones or speakers.
+There are 2 screens available, select and edit.
+
+In **edit screen**, **rotate** the knob to turn up and down the master volume of your pc or **double-tap** to mute/unmute.
 
 {% include image.html 
-    src="use/ui_modes_master_01.jpg"
-    alt="maxmix master mode screen"
+    src="use/ui_out_edit.jpg"
+    alt="maxmix output mode edit"
     align="center"
     caption=""
 %}
+
+**Tap** once to enter the **selection screen**.  
+
+Here you can **rotate** the knob to cycle through all output devices available and **tap** to swith your sound
+to the selected device. i.e: switching your music from headphones to speakers.  
+
+The hash symbol on the left hand side indicates the currently active device.  
+
+{% include image.html 
+    src="use/ui_out_select.jpg"
+    alt="maxmix output mode select"
+    align="center"
+    caption=""
+%}
+
+{% include image.html 
+    src="use/ui_default_device_overlay.jpg"
+    alt="maxmix default device overlay"
+    align="center"
+    caption=""
+%}
+
+### Input Mode
+Just like output mode, input mode allows you to switch, adjust volume and toggle mute of your input devices.
 
 ### Application Mode
 This mode is built for those wanting more granular control, allowing you to adjust the volume of each application individually.
@@ -78,7 +105,7 @@ Once you find the application you'd like to edit, **tap** to go to the **edit sc
     caption=""
 %}
 
-In the **edit screen**, **rotate** to adjust the volume of the application.
+In the **edit screen**, **rotate** to adjust the volume of the application or **double tap** to mute/unmute.
 
 {% include image.html 
     src="use/ui_modes_app_edit_01.jpg"
@@ -87,10 +114,8 @@ In the **edit screen**, **rotate** to adjust the volume of the application.
     caption=""
 %}
 
-### Game Mode
-Designed to adjust the volume of your game and chat efficiently while playing.
-
-It allows you to assign an application to each one of the 2 channels available. Once assigned, **rotating** will increase the volume of one while decreasing the other one at the same time.
+### Mix Mode
+Allows you to assign an application to each one of the 2 channels available. Once assigned, **rotating** will increase the volume of one while decreasing the other one at the same time.
 
 It consists of 3 screens, **select screen a**, **select screen b** and **edit screen**.  
 You can identify the current selection screen is indicated by the letter **A** or **B** on the left hand side of the screen.
