@@ -63,7 +63,8 @@ If you don't have a 3D printer, I recommend using a community printing service s
 %}
 
 ## Hardware
-Below are the rest of parts needed to complete the project.
+Below are the rest of parts needed to complete the project.  
+\* **Due to DOA reports on Arduinos ordered from AliExpress, we've decided to not provide a link.**
 
 |Part                                     |Count   |Ali-Express                 |Amazon (US)                            |
 |-----------------------------------------|--------|----------------------------|---------------------------------------|
