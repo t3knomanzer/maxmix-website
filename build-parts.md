@@ -36,7 +36,7 @@ sidebar:
 
 [part-power-bus-td]:https://www.tindie.com/products/maxmixproject/power-bus/
 [part-display-am]:https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/
-[part-mcu-am]:https://www.amazon.com/HiLetgo-ATmega328P-Controller-Development-Unsoldered/dp/B01DLIJQA2/
+[part-mcu-am]:https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923
 [part-rotary-am]:https://www.amazon.com/gp/product/B06XQTHDRR/
 [part-m2x5mm-am]:https://www.amazon.com/gp/product/B076ZV44GN/
 [part-m2x10mm-am]:https://www.amazon.com/gp/product/B01LJRPEXK/
@@ -70,7 +70,7 @@ Below are the rest of parts needed to complete the project.
 |M2 10mm Countersink screws               |4       |[Link][part-m2x10mm-ae]     |[Link][part-m2x10mm-am]                |
 |M2 5mm Screws                            |6       |[Link][part-m2x5mm-ae]      |[Link][part-m2x5mm-am]                 |
 |Silicon bumper 2x8mm                     |4       |[Link][part-bumpers-ae]     |[Link][part-bumpers-am]                |
-|Arduino Nano 328P CH340                  |1       |[Link][part-mcu-ae]         |[Link][part-mcu-am]                    |
+|Arduino Nano 328P CH340                  |1       |*                           |[Link][part-mcu-am]                    |
 |128x32 I2C OLED display                  |1       |[Link][part-display-ae]     |[Link][part-display-am]                |
 |Rotary encoder                           |1       |[Link][part-rotary-ae]      |[Link][part-rotary-am]                 |
 |Power bus                                |1       |[Link][part-power-bus-ae]   |[Link (Tindie)][part-power-bus-td]     |
