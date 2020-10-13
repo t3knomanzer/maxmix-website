@@ -56,6 +56,8 @@ columns:
         url: https://www.prusaprinters.org/prints/31336-maxmix
       - title: Website
         url: https://github.com/t3knomanzer/maxmix-website
+      - title: Buy!
+        url: https://www.amazon.com/dp/B08KSP6G1P
       - title: Donate!
         url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SQS6XJZBCBZA8&currency_code=USD&source=url
 
