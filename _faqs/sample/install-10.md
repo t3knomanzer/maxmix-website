@@ -23,3 +23,10 @@ To fix it follow these easy steps:
     align=""
     lightbox="false"
 %}
+
+---
+title: Driver wont install
+categories: [install]
+---
+
+If you're have issues installing the driver, check [here](https://rastating.github.io/installing-drivers-for-an-arduino-nano-in-windows/)
