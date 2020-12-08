@@ -17,16 +17,11 @@ To fix it follow these easy steps:
 2. Unplug the device and reboot your computer.
 3. After Windows starts up, plug-in your device again and wait for it to be recognized. It should now  show up in **Windows Device Manager** as **CH340**, like in the picure below.
 
+**If the above doesn't work try [this](https://rastating.github.io/installing-drivers-for-an-arduino-nano-in-windows/)**
+
 {% include image.html 
     src="/install/desk-device-ctrlpanel-driver.jpg"
     alt="desk-device-ctrlpanel-driver"
     align=""
     lightbox="false"
 %}
-
----
-title: Driver wont install
-categories: [install]
----
-
-If you're have issues installing the driver, check [here](https://rastating.github.io/installing-drivers-for-an-arduino-nano-in-windows/)
