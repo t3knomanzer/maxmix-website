@@ -75,4 +75,11 @@ If your nano is still showing as an unrecognized device, it's probably because i
 5. Plug the device, it should now appears in Ports (COM & LPT) has **USB-SERIAL CH340**. If it's still undetected, try to reboot your computer and check again.
 6. You can now delete the unzipped install folder.
 
+{% include image.html 
+    src="install/desk-device-ctrlpanel-driver.jpg"
+    alt="desk-device-ctrlpanel-nodriver"
+    align=""
+    lightbox="false"
+%}
+
 
