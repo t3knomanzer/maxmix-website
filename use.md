@@ -29,7 +29,7 @@ sidebar:
 You've built your controller and installed the software. It's time to start using it!
 
 ## Actions
-The maxmix controller supports 4 different actions, **tap**, **double tap**, **hold** and **rotate**.
+The Maxmix controller supports 4 different actions, **tap**, **double tap**, **hold** and **rotate**.
 
 **Tap** is when you press and release the button once.  
 It is used to cycle through the different screens of the current mode.  
@@ -48,7 +48,7 @@ Maxmix has a few different modes of operation, each mode is designed and optimiz
 The modes available as well as the current mode selected can be seen at the bottom of the screen.
 {% include image.html 
     src="use/ui_modes_overlay_01.jpg"
-    alt="maxmix modes ui control"
+    alt="Maxmix modes ui control"
     align="center"
     caption=""
 %}
@@ -61,7 +61,7 @@ In **edit screen**, **rotate** the knob to turn up and down the master volume of
 
 {% include image.html 
     src="use/ui_out_edit.jpg"
-    alt="maxmix output mode edit"
+    alt="Maxmix output mode edit"
     align="center"
     caption=""
 %}
@@ -75,14 +75,14 @@ The hash symbol on the left hand side indicates the currently active device.
 
 {% include image.html 
     src="use/ui_out_select.jpg"
-    alt="maxmix output mode select"
+    alt="Maxmix output mode select"
     align="center"
     caption=""
 %}
 
 {% include image.html 
     src="use/ui_default_device_overlay.jpg"
-    alt="maxmix default device overlay"
+    alt="Maxmix default device overlay"
     align="center"
     caption=""
 %}
@@ -100,7 +100,7 @@ Once you find the application you'd like to edit, **tap** to go to the **edit sc
 
 {% include image.html 
     src="use/ui_modes_app_select_01.jpg"
-    alt="maxmix app mode select screen"
+    alt="Maxmix app mode select screen"
     align="center"
     caption=""
 %}
@@ -109,7 +109,7 @@ In the **edit screen**, **rotate** to adjust the volume of the application or **
 
 {% include image.html 
     src="use/ui_modes_app_edit_01.jpg"
-    alt="maxmix app mode edit screen"
+    alt="Maxmix app mode edit screen"
     align="center"
     caption=""
 %}
@@ -122,14 +122,14 @@ You can identify the current selection screen is indicated by the letter **A** o
 
 {% include image.html 
     src="use/ui_modes_game_overlay_01.jpg"
-    alt="maxmix game mode select a screen"
+    alt="Maxmix game mode select a screen"
     align="center"
     caption=""
 %}
 
 {% include image.html 
     src="use/ui_modes_game_overlay_02.jpg"
-    alt="maxmix game mode select a screen"
+    alt="Maxmix game mode select a screen"
     align="center"
     caption=""
 %}
@@ -140,7 +140,7 @@ Once you are in **edit screen**, **double tap** to set the volume of both applic
 
 {% include image.html 
     src="use/ui_modes_game_edit_01.jpg"
-    alt="maxmix app mode edit screen"
+    alt="Maxmix app mode edit screen"
     align="center"
     caption=""
 %}
