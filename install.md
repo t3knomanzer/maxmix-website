@@ -30,7 +30,7 @@ Installation of the software is very straight forward but we are providing step 
 # Requirements
 - A computer running **Windows 10**.
 - An available USB 2.0 or greater port.
-- A maxmix device.
+- A Maxmix device.
 
 # Desktop Application
 {% include alert.html text="It is recommended that you install the desktop application before you plug-in your device for the first time." %}
@@ -40,24 +40,39 @@ Installation of the software is very straight forward but we are providing step 
 3. Plug-in your device now and wait for Windows to recognize it.  
 4. Launch the application either from the Windows start menu or the shortcut on your desktop.
 
-The application should now be running and you should see the maxmix icon in the **windows taskbar**. 
+The application should now be running and you should see the Maxmix icon in the **windows taskbar**. 
 You can double-click or right click on the icon to access the application.
 
 # Firmware
-{% include alert.html text="Make sure the maxmix device is plugged in and the maxmix application is closed." %}
+{% include alert.html text="Make sure the Maxmix device is plugged in and the Maxmix application is closed." %}
 
 1. Launch the **Firmware Installer** from the shortcut on your desktop or in the Windows start menu.
 2. Confirm that the COM port selected on the drop-down is the correct one.
 3. Press install and wait for the installation to complete.
 
+# Troubleshoot / USB Driver
+If your device shows as unrecognized in **Windows Device Manager** with yellow a warning sign as shown in the picture below, the communication between the device and the computer won't work. You can try one of the following fixes.
 
-{% include faqs.html 
-  multiple="false" 
-  category="install" 
-  section_title="Troubleshoot" 
-  section_size="large"
-  section_background="default"
-  section_container="xsmall"
-  section_header_align="center"
+{% include image.html 
+    src="install/desk-device-ctrlpanel-nodriver.jpg"
+    alt="desk-device-ctrlpanel-nodriver"
+    align=""
+    lightbox="false"
 %}
+
+### Attempt to automatically reinstall the USB driver.
+1. In **Windows Device Manager** locate the device, right click on it and select **Uninstall device** then press **Uninstall** in the dialog.
+2. Unplug the device and reboot your computer.
+3. After Windows starts up, plug-in your device again and wait for it to be recognized. It should now show up in **Windows Device Manager** as **CH340**.
+
+### Install the USB driver manually.
+If your nano is still showing as an unrecognized device, it's probably because it uses a chinese clone of the FTDI USB chip which unfortunately does not work with the automatic driver finding functionality in Windows. So you will have to install the driver yourself.
+
+1. Unplug the device. 
+2. Download the [CH341SER.zip](/uploads/CH341SER.zip) archize, unzip it to a known location then double click on **SETUP.EXE**.
+3. When prompted click **Install**. Once completed, close the installer. 
+4. Open **Windows Device Manager**
+5. Plug the device, it should now appears in Ports (COM & LPT) has **USB-SERIAL CH340**. If it's still undetected, try to reboot your computer and check again.
+6. You can now delete the unzipped install folder.
+
 

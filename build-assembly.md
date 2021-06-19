@@ -44,5 +44,5 @@ sidebar:
 ## Congratulations
 Congratulations you have completed the build!
 
-You now have your very own maxmix controller.   
+You now have your very own Maxmix controller.   
 Go to the [install](/install/) section and follow the instructions to get the software setup.

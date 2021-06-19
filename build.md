@@ -26,7 +26,7 @@ sidebar:
 
 # Overview
 
-The maxmix controller has been designed to be easy and fun to build.  
+The Maxmix controller has been designed to be easy and fun to build.  
 It uses a combination of 3D printed parts and off-the-shelf electronic components.   
 All parts can be easily found and ordered online!
 
